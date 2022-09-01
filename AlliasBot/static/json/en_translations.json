@@ -1,0 +1,15 @@
+{
+  "unsupported_request": "Unsupported request; Please use /start command",
+
+  "team_count_request": "Please, enter the number of teams",
+  "team_name_request": "Please, enter the team name",
+
+  "team_registered": "Successfully registered :)",
+  "start_message": "Game starting!",
+  "end_message": "Game is over!",
+  "team_random": "Random name",
+  "team_custom": "Custom name",
+
+  "minus": "-",
+  "plus": "+"
+}
