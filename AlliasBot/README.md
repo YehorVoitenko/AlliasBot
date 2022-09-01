@@ -1,5 +1,4 @@
-##Deploy:
-
+###AlliasBot
 - Change token in
 ```
 /constants/settings.py
