@@ -1,4 +1,4 @@
-AlliasBot 
+AliasBot 
 ===============================
 
 Telegram version
